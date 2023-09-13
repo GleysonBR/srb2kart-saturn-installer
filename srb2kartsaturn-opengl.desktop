@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Game;ArcadeGame
+Comment[pt_BR]=Classic styled kart racer
+Comment=Classic styled kart racer
+Exec=srb2kartsaturn -opengl
+GenericName[pt_BR]=A 3D open-source kart racing game
+GenericName=A 3D open-source kart racing game
+Icon=srb2kart
+MimeType=
+Name[pt_BR]=Sonic Robo Blast 2 Kart Saturn (OpenGL)
+Name=Sonic Robo Blast 2 Kart Saturn (OpenGL)
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
