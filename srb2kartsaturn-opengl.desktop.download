@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=SRB2 Kart Saturn (OpenGL)
+Comment=Classic styled kart racer
+GenericName=A modded 3D open-source kart racing game
+Exec=srb2kartsaturn -opengl
+Icon=srb2kartsaturn
+Terminal=false
+Categories=Game;ArcadeGame
